@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @WebbiestStew
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...anything
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Twitter @nolimitttdiego
+hi, my name is diego, i'm making an app called LanApp along with a friend called hector, we tryna make it big fr
 
-<!---
-WebbiestStew/WebbiestStew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+tryna contact me, just shoot me a message on twitter, ill prolly give you my number bc i answer real quick on there 
 
-So Basically my name is Diego but most people call me Stewy, i wanna do a lot of stuff actually, i wanna build a nice webpage.
-i am in high school rn in my senior year
+twitter.com/nolimitttdiego
